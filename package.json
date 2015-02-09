@@ -1,0 +1,11 @@
+{
+  "name": "heroku-node",
+  "description": "CRm by Ionic framework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.9.8"
+  }
+}
